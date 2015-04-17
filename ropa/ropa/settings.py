@@ -1,6 +1,6 @@
 # Django settings for Celulares project.
 import os
-DEBUG = False
+DEBUG = true
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
